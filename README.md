@@ -37,8 +37,5 @@
 > _"Codar ao som de pagode é ter ritmo no back-end."_
 
 ---
-
-### 🐍 Snake Game - Meus commits em ação
-
 ![snake gif](https://github.com/iagocdev/iagocdev/blob/output/github-contribution-grid-snake.svg)
 
