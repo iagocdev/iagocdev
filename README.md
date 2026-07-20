@@ -3,7 +3,7 @@
 <p align="center">
   🔭 Desenvolvedor Back-end <br>
   🌱 Atualmente estudando <strong>Java</strong> <br>
-  ⚡ Curiosidade: Escuto <strong>pagode</strong> enquanto codifico 🎧
+  ⚡ Curiosidade: Amo música brasileira 🎧
 </p>
 
 ---
@@ -34,7 +34,8 @@
 ---
 
 ### 💬 Frase que me representa:
-> _"Codar ao som de pagode é ter ritmo no back-end."_
+> _"Sonhe. Tenha até pesadelos, se necessário for. Mas sonhe."
+- Patricia Galvão _
 
 ---
 ![snake gif](https://github.com/iagocdev/iagocdev/blob/output/github-contribution-grid-snake.svg)
